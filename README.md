@@ -2,9 +2,9 @@
 
 ## Demo
 
-[**click live demo of the project**](https://dominiksiejka.github.io/BlogPostsApp)
+[**click live demo of the project**](https://dominiksiejka.github.io/YouTubeApp/)
 
-![YouTubeApp preview](./src/assets/blogposts.jpg)
+![YouTubeApp preview](./src/assets/youtube.jpg)
 
 ## Table of Contents
 
@@ -37,7 +37,7 @@ There is a search bar at the top of the YouTubeApp. By default the search is set
 with BASH
 
 # clone the remote repo to your local one
-$ git clone https://github.com/dominiksiejka/BlogPostsApp.git
+$ git clone https://github.com/dominiksiejka/YouTubeApp.git
 
 # open the index.html file or use your code editor to open it with live server
 
@@ -50,4 +50,4 @@ $ git clone https://github.com/dominiksiejka/BlogPostsApp.git
 
 ## License
 
-- MIT © [Dominik Siejka ](https://github.com/dominiksiejka/BlogPostsApp)
+- MIT © [Dominik Siejka ](https://github.com/dominiksiejka/YouTubeApp)
